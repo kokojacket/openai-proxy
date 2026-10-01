@@ -1,5 +1,7 @@
 # bps-proxy
 
+> **当前状态：此方法已经失效。BPS 渠道已开始降智，模型质量和工具调用稳定性不再达到本文档所述效果；本文档内容仅作历史记录。**
+
 把本机 Codex 等客户端的 Responses 请求转到 Excel 插件后端。客户端自己的工具会经 `run_officejs` 转接，仍由客户端执行。
 
 社区交流：[LINUX DO](https://linux.do/)。
